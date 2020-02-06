@@ -1,6 +1,9 @@
-[submodule "emscripten"]
-	path = emscripten
-	url = https://github.com/TannerRogalsky/emscripten.git
 [submodule "spec/SUIT"]
 	path = spec/SUIT
 	url = https://github.com/TannerRogalsky/SUIT.git
+[submodule "emscripten"]
+	path = emscripten
+	url = git://github.com/emscripten-core/emscripten.git
+[submodule "megasource"]
+	path = megasource
+	url = git@git.sr.ht:~ruin0x11/megasource
